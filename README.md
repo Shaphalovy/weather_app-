@@ -4,13 +4,12 @@ A simple Flutter project to check weather status by searching city name using Re
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. In Future below additional features will be added:
 
-A few resources to get you started if this is your first Flutter project:
+1.  Search History: Save the recent searches in a list for quick access.
+2.  Geolocation Support: Fetch weather details using the user’s current location.
+3.  Multi-language Support: Allow users to view weather data in different languages.
+4.  Dark Mode: Add a toggle for dark and light modes in the app.
+5.  Hourly/Daily Forecast: Fetch and display detailed forecasts for the next few hours or days.
+6.  User Preferences: Save units of measurement (Celsius/Fahrenheit) and default city settings.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
